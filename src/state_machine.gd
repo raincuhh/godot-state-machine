@@ -2,12 +2,9 @@ class_name StateMachine
 extends Node
 
 # made by rain
-#
-# A simple state machine system for managing states in a game, inspired by a C++ state machine system.
+# A simple state machine system for managing states in a game.
 # This implementation allows you to define states with their corresponding enter, leave, and normal behaviors,
-# and handles transitions between states. It is particularly useful for managing player states like idle,
-# move, jump, and more.
-
+# and handles transitions between states.
 
 class_name StateMachine
 extends RefCounted
